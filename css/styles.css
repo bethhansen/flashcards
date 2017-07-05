@@ -1,3 +1,11 @@
-.showing {
+.definition {
   display: none;
+}
+
+.titleCard {
+
+}
+
+.titleCard:hover {
+  text-decoration: underline;
 }
