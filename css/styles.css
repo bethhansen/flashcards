@@ -9,3 +9,13 @@
 .titleCard:hover {
   text-decoration: underline;
 }
+
+.col-md-3 {
+  border: 4px solid black;
+  height: 300px;
+  width:300px;
+  float: left;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
